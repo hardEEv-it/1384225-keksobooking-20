@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Глеб Хардеев](https://up.htmlacademy.ru/javascript/20/user/1384225).
-* Наставник: [Иван Авдеев](https://htmlacademy.ru/profile/avdeev1van).
+* Наставник: [Иван 😎 Авдеев](https://htmlacademy.ru/profile/avdeev1van).
 
 ---
 
